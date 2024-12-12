@@ -1,0 +1,7 @@
+Urun Adi, Stok, Fiyat
+Ekran Karti,10,1500
+Islemci,15,2500
+RAM,20,800
+SSD,30,1200
+Anakart,5,1800
+Mekanik Keyboard,12,2500
